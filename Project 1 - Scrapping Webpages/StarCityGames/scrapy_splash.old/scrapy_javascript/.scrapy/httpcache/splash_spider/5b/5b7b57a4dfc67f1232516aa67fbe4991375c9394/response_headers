@@ -1,0 +1,13 @@
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Content-Encoding: gzip
+Set-Cookie: __cfduid=d5c1db48a6d2c5e29a25369ea909c13441558453209; expires=Wed, 20-May-20 15:40:09 GMT; path=/; domain=.whatismyipaddress.com; HttpOnly
+Cf-Cache-Status: EXPIRED
+Vary: Accept-Encoding
+Ms-Author-Via: DAV
+Server: cloudflare
+Last-Modified: Fri, 15 Dec 2017 00:02:35 GMT
+Etag: "43e88ce-261-56055b7c23cc0"
+Date: Tue, 21 May 2019 15:40:10 GMT
+Cf-Ray: 4da7a5b11c6e9f03-ORD
+Content-Type: text/plain
+Accept-Ranges: bytes

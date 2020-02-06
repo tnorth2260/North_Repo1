@@ -1,0 +1,5 @@
+Name - a.card_popup
+Category - a
+Type - td.deckdbbody.search_results_4
+Stock - td.deckdbbody.search_results_8
+Price - td.deckdbbody.search_results_9

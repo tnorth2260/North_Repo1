@@ -1,0 +1,12 @@
+X-Xss-Protection: 0
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Expires: Wed, 22 May 2019 13:49:02 GMT
+Vary: Accept-Encoding
+Server: sffe
+Last-Modified: Thu, 02 May 2019 17:30:00 GMT
+Cache-Control: private, max-age=0
+Date: Wed, 22 May 2019 13:49:02 GMT
+Alt-Svc: quic=":443"; ma=2592000; v="46,44,43,39"
+Content-Type: text/plain

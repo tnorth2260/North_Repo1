@@ -1,0 +1,9 @@
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload; always;
+Server: nginx
+Date: Wed, 22 May 2019 14:07:34 GMT
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: origin
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,10 @@
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Server: nginx
+Access-Control-Allow-Credentials: true
+Date: Wed, 22 May 2019 13:34:37 GMT
+Access-Control-Allow-Origin: *
+Referrer-Policy: no-referrer-when-downgrade
+Content-Type: text/plain
+X-Frame-Options: DENY

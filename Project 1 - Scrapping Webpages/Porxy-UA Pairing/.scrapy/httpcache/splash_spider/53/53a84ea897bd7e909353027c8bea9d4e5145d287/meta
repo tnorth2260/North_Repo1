@@ -1,0 +1,1 @@
+{'url': 'https://httpbin.org/robots.txt', 'status': 200, 'method': 'GET', 'timestamp': 1558474320.331333, 'response_url': 'https://httpbin.org/robots.txt'}

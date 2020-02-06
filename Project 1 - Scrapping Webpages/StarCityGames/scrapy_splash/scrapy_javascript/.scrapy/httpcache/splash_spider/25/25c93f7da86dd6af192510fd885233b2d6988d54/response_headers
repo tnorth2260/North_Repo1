@@ -1,0 +1,16 @@
+Access-Control-Allow-Methods: POST, GET, PUT, DELETE, PATCH, OPTIONS
+Access-Control-Max-Age: 600
+Set-Cookie: scg_ci_session=5b4d13eae20ce9b7dfe32782e121d3b3c8b497f7; expires=Tue, 21-May-2019 22:49:30 GMT; Max-Age=7200; path=/; domain=.starcitygames.com; HttpOnly
+Set-Cookie: session_track=5b4d13eae20ce9b7dfe32782e121d3b3c8b497f7; expires=Tue, 28-May-2019 20:49:30 GMT; Max-Age=604800; path=/; domain=.starcitygames.com
+Set-Cookie: session_track=5b4d13eae20ce9b7dfe32782e121d3b3c8b497f7; expires=Tue, 28-May-2019 20:49:30 GMT; Max-Age=604800; path=/; domain=.starcitygames.com
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Server: cloudflare
+Access-Control-Allow-Credentials: true
+Pragma: no-cache
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Date: Tue, 21 May 2019 20:49:30 GMT
+Access-Control-Allow-Origin: https://www.starcitygames.com
+Access-Control-Allow-Headers: Accept, Accept-Encoding, Accept-Language, Cache-Control, Connection, Content-Length, Content-Type, Cookie, Host, Origin, Pragma, Referer, User-Agent
+Content-Type: text/html; charset=UTF-8
+Cf-Ray: 4da96ad419afc538-ORD
+X-Frame-Options: SAMEORIGIN

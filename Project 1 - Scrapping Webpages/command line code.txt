@@ -1,0 +1,9 @@
+cd .local/lib/python2.7/site-packages/scrapy_splash/scrapy_javascript
+cd .local/lib/python2.7/site-packages/scrapy_splash/scrapy_javascript/scrapy_javascript
+cd scrapy_javascript/spiders
+
+
+body.home.page-template.page-template-page-templates.page-template-homepage.page-template-page-templateshomepage-php.page.page-id-7.group-blog
+
+
+splatShot21

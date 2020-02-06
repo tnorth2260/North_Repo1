@@ -1,0 +1,17 @@
+Access-Control-Allow-Methods: POST, GET, PUT, DELETE, PATCH, OPTIONS
+Access-Control-Max-Age: 600
+Set-Cookie: __cfduid=dd6d680597c58897dfabce2aced4251951558461100; expires=Wed, 20-May-20 17:51:40 GMT; path=/; domain=.starcitygames.com; HttpOnly
+Cf-Cache-Status: EXPIRED
+Expires: Wed, 22 May 2019 17:51:40 GMT
+Vary: Accept-Encoding
+Server: cloudflare
+Last-Modified: Sat, 20 Oct 2018 22:45:15 GMT
+Etag: W/"105-578b0c60abba9"
+Cache-Control: public, max-age=86400
+Access-Control-Allow-Credentials: true
+Date: Tue, 21 May 2019 17:51:40 GMT
+Access-Control-Allow-Origin: https://www.starcitygames.com
+Access-Control-Allow-Headers: Accept, Accept-Encoding, Accept-Language, Cache-Control, Connection, Content-Length, Content-Type, Cookie, Host, Origin, Pragma, Referer, User-Agent
+Content-Type: text/plain; charset=UTF-8
+Cf-Ray: 4da866566bd555f2-ORD
+X-Frame-Options: SAMEORIGIN

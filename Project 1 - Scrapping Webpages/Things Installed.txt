@@ -1,0 +1,7 @@
+sudo apt install docker.io
+sudo apt install python-pip
+sudo docker pull scrapinghub/splash
+sudo pip install scrapy-splash
+pip install fake-useragent
+pip install scrapy-rotating-proxies
+pip install scrapy-proxies

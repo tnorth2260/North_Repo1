@@ -1,0 +1,18 @@
+Status: 200 OK
+X-Request-Id: 013108c4-74ab-45eb-be3e-7df2d599a265
+X-Xss-Protection: 1; mode=block
+X-Cache: Miss from cloudfront
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Accept-Encoding
+Server: nginx
+X-Runtime: 0.004185
+Etag: W/"bc0ce1f3167c7be23de1fa182ba997fc"
+X-Amz-Cf-Id: Bf5yng0bcgd5kt_hZS11dLbnlpKYl88OGvh0rwGSsb1kCPwsIVgfxA==
+Cache-Control: max-age=0, private, must-revalidate
+Via: 1.1 c6dab4618ec5edc614f4088bd297ab69.cloudfront.net (CloudFront)
+Date: Tue, 21 May 2019 16:51:43 GMT
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: no-referrer-when-downgrade
+Content-Type: text/plain; charset=utf-8
